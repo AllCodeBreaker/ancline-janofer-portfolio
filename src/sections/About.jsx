@@ -7,7 +7,7 @@ export default function About() {
         {/* Image */}
         <div className="rounded-2xl overflow-hidden shadow-lg border border-white/5">
           <img
-            src="../asserts/ancline.png"
+            src="ancline.png"
             className="w-full h-full object-cover"
           />
         </div>
